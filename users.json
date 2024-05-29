@@ -1,0 +1,29 @@
+[
+  { 
+    "first_name": "Alice", 
+    "last_name": "Johnson", 
+    "birth_date": "2003-09-12T11:30:00Z", 
+    "age": 20, 
+    "gender": "F", 
+    "phone": "0906532614", 
+    "email": "a.johnson@gmail.com" 
+  },
+  { 
+    "first_name": "Bob", 
+    "last_name": "Smith", 
+    "birth_date": "2002-02-28T03:30:00Z", 
+    "age": 22, 
+    "gender": "M", 
+    "phone": "0906563214", 
+    "email": "b.smith@gmail.com" 
+  },
+  { 
+    "first_name": "Charlie", 
+    "last_name": "Brown", 
+    "birth_date": "2001-07-03T14:30Z", 
+    "age": 23, 
+    "gender": "M", 
+    "phone": "090251461", 
+    "email": "ch.brown@gmail.com" 
+  }
+]
