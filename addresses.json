@@ -1,0 +1,56 @@
+[
+  { 
+    "street": "123 Main Street",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "postal_code": "10001",
+    "city": "New York",
+    "country": "USA",
+    "state": "NY"
+  },
+  {
+    "street": "81 Main Street",
+    "latitude": 40.7215,
+    "longitude": -73.9920,
+    "postal_code": "10012",
+    "city": "New York",
+    "country": "USA",
+    "state": "NY" 
+  },
+  {
+    "street": "10 Central Park West",
+    "latitude": 40.771133,
+    "longitude": -73.981784,
+    "postal_code": "10023",
+    "city": "New York",
+    "country": "USA",
+    "state": "NY" 
+  },
+  {
+    "street": "456 Broadway",
+    "latitude": 40.7233,
+    "longitude": -74.0020,
+    "postal_code": "10013",
+    "city": "New York",
+    "country": "USA",
+    "state": "NY"
+  },
+  {
+    "street": "789 Fifth Avenue",
+    "latitude": 40.7645,
+    "longitude": -73.9739,
+    "postal_code": "10022",
+    "city": "New York",
+    "country": "USA",
+    "state": "NY"
+  },
+  {
+    "street": "55 Wall Street",
+    "latitude": 40.7069,
+    "longitude": -74.0091,
+    "postal_code": "10005",
+    "city": "New York",
+    "country": "USA",
+    "state": "NY"
+  }
+]

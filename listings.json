@@ -1,24 +1,17 @@
 [
-    { 
-      "host": {
-        "hostName": "Mark Kolsh",
-        "hostResponseTime": 2,
-        "hostResponseRate": 3,
-        "hostListingsCount": 1
-      }, 
+    {  
+      "address_id": "6659756cb06a8c940660b4f9", 
       "neighbourhood": {
         "neighbourhoodName": "Downtown",
         "boroughName": "Manhattan"
       }, 
-      "address": {
-        "street": "123 Main Street",
-        "latitude": 40.7128,
-        "longitude": -74.0060,
-        "postal_code": "10001",
-        "city": "New York",
-        "country": "USA",
-        "state": "NY" 
-      }, 
+      "host": {
+        "address_id": "665976bcb06a8c940660b4fc",
+        "hostName": "Mark Kolsh",
+        "hostResponseTime": 2,
+        "hostResponseRate": 3,
+        "hostListingsCount": 1
+      },
       "roomType": {
         "roomTypeName": "Apartman",
         "description": "Cozy apartment in the heart of downtown."
@@ -107,26 +100,19 @@
         }
       ]
     },
-    { 
-      "host": {
-        "hostName": "Samantha Mathews",
-        "hostResponseTime": 1,
-        "hostResponseRate": 1,
-        "hostListingsCount": 1
-      }, 
+    {  
+      "address_id": "6659756cb06a8c940660b4fa",
       "neighbourhood": {
         "neighbourhoodName": "Bowery",
         "boroughName": "Manhattan"
       }, 
-      "address": {
-        "street": "81 Main Street",
-        "latitude": 40.7215,
-        "longitude": -73.9920,
-        "postal_code": "10012",
-        "city": "New York",
-        "country": "USA",
-        "state": "NY" 
-      }, 
+      "host": {
+        "address_id": "665976bcb06a8c940660b4fd",
+        "hostName": "Samantha Mathews",
+        "hostResponseTime": 1,
+        "hostResponseRate": 1,
+        "hostListingsCount": 1
+      },
       "roomType": {
         "roomTypeName": "Suite",
         "description": "Luxury suite in the heart of Bowery."
@@ -209,25 +195,18 @@
         }
       ]
     },
-    { 
+    {  
+      "address_id": "6659756cb06a8c940660b4fb", 
+      "neighbourhood": {
+        "neighbourhoodName": "Central Park",
+        "boroughName": "Manhattan"
+      },
       "host": {
+        "address_id": "665976bcb06a8c940660b4fe",
         "hostName": "Christopher Collins",
         "hostResponseTime": 5,
         "hostResponseRate": 4,
         "hostListingsCount": 1
-      }, 
-      "neighbourhood": {
-        "neighbourhoodName": "Central Park",
-        "boroughName": "Manhattan"
-      }, 
-      "address": {
-        "street": "10 Central Park West",
-        "latitude": 40.771133,
-        "longitude": -73.981784,
-        "postal_code": "10023",
-        "city": "New York",
-        "country": "USA",
-        "state": "NY" 
       }, 
       "roomType": {
         "roomTypeName": "Private room",
